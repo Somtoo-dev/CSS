@@ -28,8 +28,20 @@ a:visited{
 main h1 {
   color: darkcyan;
 } 
+section h3 {
+  color: indigo;
+} 
 
 h1 + p:hover {
   color: crimson;
 }
 
+footer h1 {
+  color: burlywood;
+} 
+footer  {
+  text-align: center;
+} 
+section input:focus {
+  background-color: lawngreen;
+}
