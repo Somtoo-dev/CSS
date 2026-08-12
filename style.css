@@ -1,0 +1,39 @@
+h1 + p{
+  color: blueviolet;
+}
+
+h1:hover {
+  color: green;
+}
+
+input:focus {
+  background-color: chartreuse;
+}
+
+a:active {
+  background-color: chartreuse;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: rgb(255, 47, 255);
+}
+
+.link:active {
+  color: yellow;
+}
+
+.link:visited {
+  color: lightgreen;
+}
+.link:hover {
+  color: blue;
+}
+
+.link {
+  font-size: 40px;
+  font: ;
+}
